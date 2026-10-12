@@ -1,0 +1,13 @@
+configuration,trials,trials_with_unauthorized_effect,unauthorized_effects,duplicate_effects,legitimate_fixtures,business_completions,confirmed_business_completions,receipt_loss_fixture_inputs,unknown_observations,correct_unknown_handling,bypass_fixtures,bypass_trials_with_unauthorized_effect,local_operation_ns_median,local_operation_ns_p95
+content_body_only,243,225,269,61,33,17,17,121,121,0,120,112,414400,856600
+tool_identity,243,225,269,61,33,17,17,121,121,0,120,112,403100,938100
+object_gateway_shared_credentials,243,156,181,37,33,21,17,121,89,0,120,112,350400,864400
+target_boundary,243,0,0,0,33,33,33,121,33,33,120,0,92400,1282200
+robust_integrated_baseline,243,0,0,0,33,33,33,121,33,33,120,0,85500,1221100
+ablate_object_binding,243,32,32,0,33,33,33,121,65,65,120,16,585100,1531600
+ablate_policy_isolation,243,8,8,0,33,33,33,121,41,41,120,4,112300,1449600
+ablate_path_closure,243,52,74,30,33,25,25,121,77,77,120,52,113600,972300
+ablate_revocation_check,243,16,16,0,33,33,33,121,49,49,120,8,103900,1375400
+ablate_claim_dedupe,243,8,8,8,33,25,17,121,33,33,120,4,73300,494400
+ablate_feedback_state,243,8,8,8,33,25,17,121,33,0,120,4,100000,1386900
+ablate_stop_priority,243,32,32,0,33,33,33,121,33,33,120,16,99400,1458900

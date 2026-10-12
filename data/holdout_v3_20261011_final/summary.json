@@ -1,0 +1,21 @@
+{
+  "seed": 20261011,
+  "cases_per_configuration": 500,
+  "configurations": [
+    "target_boundary",
+    "robust_integrated_baseline",
+    "content_body_only"
+  ],
+  "unseen_payloads": 500,
+  "target_unauthorized_effects": 0,
+  "integrated_unauthorized_effects": 0,
+  "weak_unauthorized_effects": 500,
+  "target_semantics_digest": "24201baf2887d103f101db463e18dfb462549b2173f0c8c21d87e6af7deec3be",
+  "integrated_semantics_digest": "24201baf2887d103f101db463e18dfb462549b2173f0c8c21d87e6af7deec3be",
+  "weak_semantics_digest": "21513a5d3e208c1c99ed39ce3dee5ee7eb60fd3c3a13caf10ef993c39f45b6f5",
+  "lab_script_sha256": "8571ad8f64eb39c2c5352fb1bcbcd73ad084b464756987aa27b6d23b81b83c60",
+  "holdout_script_sha256": "0f6c97da05824d69d3195f7aa92d9389c260bc49a4099821cea48a0cbe65a985",
+  "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "scope": "local sandbox outbox; generated unseen attachment bytes; no network, LLM or production"
+}

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Runtime External Safety Control for Highly Autonomous Artificial Intelligence: Reproducibility Package"
+message: "If you use this code or data, please cite the associated manuscript and this repository."
+type: software
+abstract: "Deterministic local prototype, fixtures, trial-level results, holdout checks, and repeated local efficiency measurements for runtime external safety control."
+authors:
+  - name: "GZHU Innovation Intersection Lab"
+    affiliation: "Guangzhou University"
+version: "v52-20261012"
+date-released: 2026-10-12
+license: MIT
+repository-code: "https://github.com/GZHU-Innovation-Intersection-Lab/runtime-external-safety-control"

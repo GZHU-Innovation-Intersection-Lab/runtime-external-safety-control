@@ -1,0 +1,12 @@
+{
+  "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "script_sha256": "8571ad8f64eb39c2c5352fb1bcbcd73ad084b464756987aa27b6d23b81b83c60",
+  "fixtures": 243,
+  "trials": 2916,
+  "timing": "perf_counter_ns: local HMAC/hash/queue/file implementation cost; no network latency",
+  "event_ticks": "simulated discrete event time; claim=5, effect=10, stop=6 or 12",
+  "key": "public test-only HMAC key",
+  "oracle": "immutable, evaluation-only",
+  "prior_versions": "runtime_control_experiment.py and v2 are deprecated; no v1/v2 results are reused"
+}

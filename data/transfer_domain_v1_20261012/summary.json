@@ -1,0 +1,14 @@
+{
+  "domain": "code_deployment_like_digital_write",
+  "cases_per_configuration": 48,
+  "total_trials": 96,
+  "target_unauthorized_trials": 0,
+  "target_unauthorized_effects": 0,
+  "operation_only_unauthorized_trials": 42,
+  "operation_only_unauthorized_effects": 66,
+  "target_semantic_digest": "57c43740168d73c6a99b296a7c141e31ea2536d18d004545ce2514b65529f992",
+  "script_sha256": "5028ff875ade33b29508cc26e446913709104a7310fd3fcfed7e1d45ea01f2c5",
+  "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "scope": "deterministic local digital-write check; no compiler, cluster, network, or production deployment"
+}

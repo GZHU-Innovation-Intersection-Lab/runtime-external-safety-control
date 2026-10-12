@@ -1,0 +1,9 @@
+{
+  "robust_safety": true,
+  "legitimate_completion": true,
+  "byte_snapshot_survives_file_replacement": true,
+  "same_nonce_changed_object_not_falsely_confirmed": true,
+  "corrupted_hmac_rejected": true,
+  "integrated_semantic_equivalence": true,
+  "every_ablation_has_counterexample": true
+}

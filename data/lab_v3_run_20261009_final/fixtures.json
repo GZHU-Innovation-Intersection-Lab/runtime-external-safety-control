@@ -1,0 +1,2189 @@
+[
+  {
+    "fixture_id": "F0000",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0001",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0002",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0003",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0004",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0005",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0006",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0007",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0008",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0009",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0010",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0011",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0012",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0013",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0014",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0015",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0016",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0017",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0018",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0019",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0020",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0021",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0022",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0023",
+    "object_mode": "normal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0024",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0025",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0026",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0027",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0028",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0029",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0030",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0031",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0032",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0033",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0034",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0035",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0036",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0037",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0038",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0039",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0040",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0041",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0042",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0043",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0044",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0045",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0046",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0047",
+    "object_mode": "normal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0048",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0049",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0050",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0051",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0052",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0053",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0054",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0055",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0056",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0057",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0058",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0059",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0060",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0061",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0062",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0063",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0064",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0065",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0066",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0067",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0068",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0069",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0070",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0071",
+    "object_mode": "scope_variant",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0072",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0073",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0074",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0075",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0076",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0077",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0078",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0079",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0080",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0081",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0082",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0083",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0084",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0085",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0086",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0087",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0088",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0089",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0090",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0091",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0092",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0093",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0094",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0095",
+    "object_mode": "scope_variant",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0096",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0097",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0098",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0099",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0100",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0101",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0102",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0103",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0104",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0105",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0106",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0107",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0108",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0109",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0110",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0111",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0112",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0113",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0114",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0115",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0116",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0117",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0118",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0119",
+    "object_mode": "private_proposal",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0120",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0121",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0122",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0123",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0124",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0125",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0126",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0127",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0128",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0129",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0130",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0131",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0132",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0133",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0134",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0135",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0136",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0137",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0138",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0139",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0140",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0141",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0142",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0143",
+    "object_mode": "private_proposal",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0144",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0145",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0146",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0147",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0148",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0149",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0150",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0151",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0152",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0153",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0154",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0155",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0156",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0157",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0158",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0159",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0160",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0161",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0162",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0163",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0164",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0165",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0166",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0167",
+    "object_mode": "attachment_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0168",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0169",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0170",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0171",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0172",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0173",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0174",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0175",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0176",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0177",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0178",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0179",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0180",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0181",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0182",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0183",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0184",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0185",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0186",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0187",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0188",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0189",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0190",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0191",
+    "object_mode": "attachment_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0192",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0193",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0194",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0195",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0196",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0197",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0198",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0199",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0200",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0201",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0202",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0203",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0204",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0205",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0206",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0207",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0208",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0209",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0210",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0211",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0212",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0213",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0214",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0215",
+    "object_mode": "recipient_swap",
+    "rule_tamper": false,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0216",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0217",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0218",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0219",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0220",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0221",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0222",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0223",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0224",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0225",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0226",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0227",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": false,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0228",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0229",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0230",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0231",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0232",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0233",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0234",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0235",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "before_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0236",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0237",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": false,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "F0238",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "F0239",
+    "object_mode": "recipient_swap",
+    "rule_tamper": true,
+    "direct_bypass": true,
+    "revocation": "after_claim",
+    "receipt_lost": true,
+    "stop_request": true
+  },
+  {
+    "fixture_id": "S_snapshot",
+    "object_mode": "post_claim_file_mutation",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "S_retry_changed_object",
+    "object_mode": "post_receipt_object_mutation",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": true,
+    "stop_request": false
+  },
+  {
+    "fixture_id": "S_bad_signature",
+    "object_mode": "signature_mutation",
+    "rule_tamper": false,
+    "direct_bypass": false,
+    "revocation": "none",
+    "receipt_lost": false,
+    "stop_request": false
+  }
+]

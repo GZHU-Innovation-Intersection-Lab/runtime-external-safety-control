@@ -1,0 +1,25 @@
+{
+  "benchmark_script_sha256": "76946b0a249acf42053fa80951fedef2f73ebc45dfa22a54974fe32c04fdbd07",
+  "lab_script_sha256": "8571ad8f64eb39c2c5352fb1bcbcd73ad084b464756987aa27b6d23b81b83c60",
+  "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "cpu_count": 32,
+  "fixtures": 243,
+  "configurations": [
+    "target_boundary",
+    "robust_integrated_baseline",
+    "content_body_only",
+    "object_gateway_shared_credentials",
+    "ablate_path_closure"
+  ],
+  "repetitions": 20,
+  "trials": 24300,
+  "timers": {
+    "wall": "time.perf_counter_ns around local trial including sandbox setup, execution, and oracle evaluation",
+    "cpu": "time.process_time_ns around the same local trial",
+    "operation": "runtime_control_lab_v3 measured_local_operation_ns"
+  },
+  "scope": "local JSON/HMAC/SHA-256/claim/outbox prototype; no network, no LLM, no deployment",
+  "simulated_ticks": "unchanged v3 discrete-event ticks; not elapsed wall time"
+}
