@@ -1,0 +1,3 @@
+# Preserve the exact source and evidence bytes recorded by SHA-256.
+# This also prevents core.autocrlf from changing scripts after a fresh clone.
+* -text
